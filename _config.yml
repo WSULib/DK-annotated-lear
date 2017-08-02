@@ -29,7 +29,7 @@ defaults:
   values:
     layout: annotation
 description: An annotated digital edition created with <a href="http://readux.library.emory.edu/">Readux</a>
-homepage_image: http://digital.library.wayne.edu/readux/books/wayne:fourthfolio_Readux_VirtualVolume/pages/wayne:fourthfolio_Readux_VirtualPage_1/single-page/
+homepage_image: https://digital.library.wayne.edu/readux/books/wayne:fourthfolio_Readux_VirtualVolume/pages/wayne:fourthfolio_Readux_VirtualPage_1/single-page/
 image_size:
   page:
     height: 1000
@@ -52,9 +52,9 @@ show_annotation_author: true
 source_info:
   author: null
   date: '1685'
-  pdf_url: http://digital.library.wayne.edu/readux/books/wayne:fourthfolio_Readux_VirtualVolume/pdf/
+  pdf_url: https://digital.library.wayne.edu/readux/books/wayne:fourthfolio_Readux_VirtualVolume/pdf/
   title: The Tragedy of King Lear
-  url: http://digital.library.wayne.edu/readux/books/wayne:fourthfolio_Readux_VirtualVolume/
+  url: https://digital.library.wayne.edu/readux/books/wayne:fourthfolio_Readux_VirtualVolume/
   via_readux: true
 tagline: ', an annotated digital edition'
 title: The Tragedy of King Lear
